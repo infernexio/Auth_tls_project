@@ -1,0 +1,9 @@
+Technique,Cross-Library Consistency (%),All Libraries Match,Unique Cross-Library Fingerprints
+ja3,50.0,0.0,2.0
+ja4,50.0,False,3.0
+ja3s,25.0,False,118.0
+ja4s,0.0,False,118.0
+jarm,100.0,True,1.0
+jarm_s,25.0,False,120.0
+sslanalyze,100.0,True,1.0
+sslanalyze_s,25.0,False,120.0
